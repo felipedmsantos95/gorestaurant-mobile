@@ -59,19 +59,23 @@ To display data on screen, there is a file to be used as a kind of fake API to p
 **`/favorites`**: Returns all favorite foods registered in API
 
 
-#### Run the app in the development mode
+#### Install the application on devices with Android operating system
+
+```bash
+$ yarn android
+```
+
+#### Install the application on devices with iOS operating system
+
+```bash
+$ cd ios
+$ pod install
+$ cd ..
+$ yarn ios
+```
+
+####  Metro Bundle to development mode
 
 ```bash
 $ yarn start
-```
-Abra [http://localhost:3000](http://localhost:3000) para ver em um navegador web.
-
-The page will reload if you make edits.
-You will also see any lint errors in the console.
-
-
-#### Run tests script
-
-```bash
-$ yarn test
 ```
