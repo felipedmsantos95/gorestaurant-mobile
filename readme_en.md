@@ -1,4 +1,4 @@
-# GoRestaurant Web
+# GoRestaurant Mobile
 
 <p align="center">
     <a href="readme_en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
